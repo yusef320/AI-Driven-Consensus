@@ -1,7 +1,9 @@
 # AI-Driven-Consensus
 
+Authors: Yusef Ahsini, Belén Reverte, and J. Alberto Conejero
+
 ## Overview
-This repository contains Python scripts designed for generating synthetic datasets based on directed graphs and for training predictive models using these datasets. Two main scripts (`data_generation.py` and `model_training.py`) are provided for simulating graph dynamics and performing model comparisons.
+This repository contains Python scripts designed for generating synthetic datasets based on directed graphs and for training predictive models using these datasets of the article "AI-Driven Consensus: Modeling Multi-Agent Networks with Long-Range Interactions through path-Laplacian Matrices". Two main scripts (`data_generation.py` and `model_training.py`) are provided for simulating graph dynamics and performing model comparisons.
 
 ## Scripts
 
